@@ -18,3 +18,4 @@ btnValue.addEventListener('click', () => {
         btnValue.innerHTML = 'Gerar QRCode';
     })
 })
+
